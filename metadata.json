@@ -1,0 +1,6 @@
+{
+  "name": "CSTACK Portfolio",
+  "description": "CSTACK is a premium design and development engine, creating high-contrast interactive websites, mobile apps, and Swiss-grid graphic design systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
