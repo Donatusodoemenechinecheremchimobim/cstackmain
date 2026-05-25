@@ -225,7 +225,7 @@ export default function App() {
           animate="visible"
           variants={fadeDownVariants}
           onClick={() => setIsMobileMenuOpen(true)}
-          className="w-9 h-9 rounded-full bg-black border border-white/10 flex flex-col items-center justify-center gap-[4px] cursor-pointer"
+          className="w-9 h-9 rounded-full bg-black border border-white/10 flex md:hidden flex-col items-center justify-center gap-[4px] cursor-pointer"
           title="Open Menu"
         >
           <span className="w-4 h-[2px] bg-white rounded-full" />
